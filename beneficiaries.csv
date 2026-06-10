@@ -1,0 +1,203 @@
+BENEFICIARY REGISTER,,,,
+,,,,
+Beneficiary ID,Gender,Age Group,Region,Vulnerability
+BEN-0001,Male,45-59,Amhara,PWD
+BEN-0002,Male,45-59,Oromia,Youth
+BEN-0003,Male,45-59,Amhara,Youth
+BEN-0004,Female,35-44,Amhara,Youth
+BEN-0005,Male,60+,Oromia,Female Headed HH
+BEN-0006,Female,45-59,Amhara,Youth
+BEN-0007,Female,18-24,Tigray,None
+BEN-0008,Female,35-44,Tigray,None
+BEN-0009,Male,45-59,Tigray,Female Headed HH
+BEN-0010,Female,60+,Tigray,Youth
+BEN-0011,Female,45-59,Amhara,None
+BEN-0012,Female,35-44,Oromia,Female Headed HH
+BEN-0013,Female,60+,Amhara,None
+BEN-0014,Male,45-59,Amhara,PWD
+BEN-0015,Male,60+,Tigray,Elderly
+BEN-0016,Male,25-34,Amhara,PWD
+BEN-0017,Female,60+,Tigray,Youth
+BEN-0018,Male,45-59,Oromia,Youth
+BEN-0019,Female,45-59,Oromia,PWD
+BEN-0020,Male,45-59,Amhara,PWD
+BEN-0021,Male,25-34,Tigray,None
+BEN-0022,Male,25-34,Tigray,None
+BEN-0023,Male,60+,Amhara,Youth
+BEN-0024,Male,35-44,Amhara,None
+BEN-0025,Female,60+,Tigray,Youth
+BEN-0026,Female,18-24,Amhara,Female Headed HH
+BEN-0027,Female,45-59,Amhara,PWD
+BEN-0028,Female,60+,Amhara,None
+BEN-0029,Male,60+,Tigray,None
+BEN-0030,Female,25-34,Tigray,Elderly
+BEN-0031,Female,60+,Tigray,Youth
+BEN-0032,Male,45-59,Oromia,PWD
+BEN-0033,Male,18-24,Amhara,None
+BEN-0034,Female,25-34,Tigray,Youth
+BEN-0035,Male,45-59,Tigray,None
+BEN-0036,Male,60+,Tigray,Youth
+BEN-0037,Male,45-59,Tigray,PWD
+BEN-0038,Male,45-59,Tigray,Female Headed HH
+BEN-0039,Female,18-24,Tigray,None
+BEN-0040,Female,25-34,Oromia,Female Headed HH
+BEN-0041,Female,60+,Tigray,None
+BEN-0042,Male,45-59,Amhara,Elderly
+BEN-0043,Female,25-34,Amhara,Elderly
+BEN-0044,Female,35-44,Amhara,Youth
+BEN-0045,Male,60+,Tigray,Youth
+BEN-0046,Male,45-59,Tigray,PWD
+BEN-0047,Female,45-59,Oromia,Youth
+BEN-0048,Male,45-59,Tigray,None
+BEN-0049,Female,35-44,Tigray,Female Headed HH
+BEN-0050,Female,60+,Oromia,Female Headed HH
+BEN-0051,Male,45-59,Tigray,None
+BEN-0052,Female,25-34,Oromia,None
+BEN-0053,Female,35-44,Oromia,None
+BEN-0054,Female,45-59,Tigray,PWD
+BEN-0055,Male,25-34,Oromia,PWD
+BEN-0056,Male,25-34,Tigray,Female Headed HH
+BEN-0057,Female,60+,Tigray,Youth
+BEN-0058,Male,45-59,Tigray,Youth
+BEN-0059,Male,25-34,Oromia,None
+BEN-0060,Female,18-24,Amhara,Elderly
+BEN-0061,Male,35-44,Amhara,None
+BEN-0062,Male,45-59,Oromia,None
+BEN-0063,Female,60+,Amhara,PWD
+BEN-0064,Female,45-59,Amhara,PWD
+BEN-0065,Female,25-34,Amhara,None
+BEN-0066,Male,60+,Amhara,Youth
+BEN-0067,Female,25-34,Tigray,Youth
+BEN-0068,Male,18-24,Oromia,Female Headed HH
+BEN-0069,Female,45-59,Oromia,None
+BEN-0070,Male,60+,Amhara,Youth
+BEN-0071,Male,60+,Oromia,None
+BEN-0072,Female,35-44,Oromia,PWD
+BEN-0073,Male,45-59,Oromia,None
+BEN-0074,Male,35-44,Amhara,Female Headed HH
+BEN-0075,Male,60+,Amhara,None
+BEN-0076,Female,35-44,Amhara,None
+BEN-0077,Female,60+,Tigray,Elderly
+BEN-0078,Female,45-59,Tigray,Female Headed HH
+BEN-0079,Male,35-44,Oromia,Female Headed HH
+BEN-0080,Male,45-59,Amhara,Elderly
+BEN-0081,Male,45-59,Tigray,PWD
+BEN-0082,Male,35-44,Oromia,Elderly
+BEN-0083,Male,35-44,Amhara,Elderly
+BEN-0084,Male,45-59,Tigray,Elderly
+BEN-0085,Male,60+,Amhara,Female Headed HH
+BEN-0086,Female,35-44,Amhara,None
+BEN-0087,Female,25-34,Tigray,PWD
+BEN-0088,Female,25-34,Amhara,PWD
+BEN-0089,Female,25-34,Amhara,PWD
+BEN-0090,Male,60+,Oromia,PWD
+BEN-0091,Male,18-24,Amhara,Female Headed HH
+BEN-0092,Male,60+,Amhara,Female Headed HH
+BEN-0093,Female,60+,Oromia,Female Headed HH
+BEN-0094,Female,45-59,Amhara,None
+BEN-0095,Female,45-59,Amhara,None
+BEN-0096,Male,18-24,Tigray,Female Headed HH
+BEN-0097,Female,60+,Amhara,None
+BEN-0098,Female,45-59,Tigray,PWD
+BEN-0099,Female,18-24,Tigray,None
+BEN-0100,Female,35-44,Tigray,Youth
+BEN-0101,Male,25-34,Oromia,None
+BEN-0102,Male,35-44,Oromia,None
+BEN-0103,Female,25-34,Tigray,Elderly
+BEN-0104,Male,35-44,Oromia,None
+BEN-0105,Female,35-44,Amhara,Female Headed HH
+BEN-0106,Female,25-34,Oromia,Elderly
+BEN-0107,Female,45-59,Oromia,Female Headed HH
+BEN-0108,Male,60+,Amhara,None
+BEN-0109,Male,18-24,Tigray,Elderly
+BEN-0110,Male,60+,Oromia,Female Headed HH
+BEN-0111,Male,25-34,Tigray,PWD
+BEN-0112,Female,18-24,Amhara,Female Headed HH
+BEN-0113,Female,25-34,Tigray,None
+BEN-0114,Female,45-59,Oromia,Elderly
+BEN-0115,Male,45-59,Amhara,PWD
+BEN-0116,Male,25-34,Oromia,Female Headed HH
+BEN-0117,Male,45-59,Tigray,Elderly
+BEN-0118,Female,35-44,Oromia,None
+BEN-0119,Female,35-44,Amhara,Female Headed HH
+BEN-0120,Male,35-44,Tigray,None
+BEN-0121,Male,60+,Tigray,None
+BEN-0122,Male,35-44,Oromia,Elderly
+BEN-0123,Female,45-59,Amhara,Female Headed HH
+BEN-0124,Female,45-59,Tigray,PWD
+BEN-0125,Male,35-44,Oromia,None
+BEN-0126,Female,18-24,Amhara,PWD
+BEN-0127,Female,25-34,Oromia,Elderly
+BEN-0128,Female,35-44,Tigray,Female Headed HH
+BEN-0129,Female,45-59,Oromia,None
+BEN-0130,Female,45-59,Amhara,PWD
+BEN-0131,Male,25-34,Tigray,PWD
+BEN-0132,Female,18-24,Amhara,PWD
+BEN-0133,Female,18-24,Amhara,Youth
+BEN-0134,Female,60+,Amhara,Youth
+BEN-0135,Female,60+,Amhara,Youth
+BEN-0136,Female,60+,Amhara,Youth
+BEN-0137,Female,35-44,Amhara,PWD
+BEN-0138,Female,45-59,Tigray,PWD
+BEN-0139,Male,60+,Amhara,Youth
+BEN-0140,Male,35-44,Oromia,Female Headed HH
+BEN-0141,Female,60+,Oromia,None
+BEN-0142,Female,25-34,Tigray,None
+BEN-0143,Male,60+,Tigray,Female Headed HH
+BEN-0144,Female,60+,Tigray,None
+BEN-0145,Female,35-44,Oromia,None
+BEN-0146,Male,18-24,Oromia,Elderly
+BEN-0147,Female,45-59,Oromia,PWD
+BEN-0148,Female,18-24,Amhara,None
+BEN-0149,Male,35-44,Oromia,Female Headed HH
+BEN-0150,Male,45-59,Oromia,Elderly
+BEN-0151,Male,45-59,Oromia,None
+BEN-0152,Male,18-24,Tigray,Elderly
+BEN-0153,Male,45-59,Tigray,Female Headed HH
+BEN-0154,Female,25-34,Amhara,Female Headed HH
+BEN-0155,Female,25-34,Oromia,Youth
+BEN-0156,Female,25-34,Tigray,None
+BEN-0157,Female,35-44,Tigray,None
+BEN-0158,Female,45-59,Amhara,Youth
+BEN-0159,Male,25-34,Oromia,Youth
+BEN-0160,Female,60+,Oromia,Elderly
+BEN-0161,Female,25-34,Oromia,Youth
+BEN-0162,Male,18-24,Tigray,Youth
+BEN-0163,Male,18-24,Oromia,Elderly
+BEN-0164,Male,45-59,Tigray,Youth
+BEN-0165,Male,18-24,Amhara,Youth
+BEN-0166,Female,25-34,Oromia,Female Headed HH
+BEN-0167,Female,45-59,Oromia,Female Headed HH
+BEN-0168,Male,35-44,Amhara,PWD
+BEN-0169,Male,35-44,Oromia,Youth
+BEN-0170,Female,25-34,Amhara,Elderly
+BEN-0171,Female,18-24,Amhara,PWD
+BEN-0172,Female,45-59,Amhara,Youth
+BEN-0173,Male,45-59,Tigray,Youth
+BEN-0174,Male,45-59,Oromia,Elderly
+BEN-0175,Female,25-34,Tigray,Youth
+BEN-0176,Male,35-44,Oromia,Elderly
+BEN-0177,Male,35-44,Amhara,PWD
+BEN-0178,Male,25-34,Tigray,Female Headed HH
+BEN-0179,Female,18-24,Amhara,Elderly
+BEN-0180,Male,45-59,Amhara,Youth
+BEN-0181,Male,60+,Tigray,Female Headed HH
+BEN-0182,Male,35-44,Amhara,PWD
+BEN-0183,Male,45-59,Amhara,None
+BEN-0184,Female,18-24,Amhara,Elderly
+BEN-0185,Male,60+,Amhara,PWD
+BEN-0186,Female,25-34,Oromia,None
+BEN-0187,Female,45-59,Tigray,PWD
+BEN-0188,Male,45-59,Oromia,PWD
+BEN-0189,Female,18-24,Oromia,Female Headed HH
+BEN-0190,Female,60+,Tigray,Female Headed HH
+BEN-0191,Male,60+,Amhara,None
+BEN-0192,Female,35-44,Tigray,Female Headed HH
+BEN-0193,Female,60+,Tigray,PWD
+BEN-0194,Male,60+,Amhara,Female Headed HH
+BEN-0195,Female,35-44,Tigray,Elderly
+BEN-0196,Female,18-24,Tigray,None
+BEN-0197,Female,25-34,Amhara,None
+BEN-0198,Female,60+,Amhara,Elderly
+BEN-0199,Male,60+,Oromia,PWD
+BEN-0200,Female,60+,Amhara,None
